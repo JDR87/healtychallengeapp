@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7775088516",
+    "firebase_url": "https://apphealtychallenge.firebaseio.com",
+    "project_id": "apphealtychallenge",
+    "storage_bucket": "apphealtychallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7775088516:android:b2e6cd2475cf73c57837d1",
+        "android_client_info": {
+          "package_name": "com.android.healtychallengeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7775088516-k9pg4b2se6om3k37p5e37lno0aop4gqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.healtychallengeapp",
+            "certificate_hash": "71f54a748623e32c7715d996c93d8cc8c03197ce"
+          }
+        },
+        {
+          "client_id": "7775088516-pom7lrnsgskgs075t27b6vs4kaefqk70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_bqzfSM_gwH1LU4sZSQaO8qvV2KAHZR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7775088516-pom7lrnsgskgs075t27b6vs4kaefqk70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
